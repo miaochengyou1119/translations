@@ -19,18 +19,18 @@
 
 ![old-android-phone](images/old-android-phone.jpg)
 
-安卓手机和平板越用越慢？貌似挺多人会这么觉得。好吧，一起来看看设备变慢的原因和如何提速。
+似乎很多人都会觉得，安卓手机和平板越用越慢。为什么呢？那我们一起来看看设备变慢的原因以及提速的方法。
 
-当然这不是只是安卓才有的问题——可以用用`iOS7`的`iPad3`，看看会变得有多慢——但貌似确实很多安卓用户会反映这个问题。
+当然，感觉设备越用越慢，不是只有安卓才有的问题——可以尝试用用`iOS7`的`iPad3`，看看会变得有多慢——但似乎确实有很多安卓用户会反映设备变慢问题。
 
 `OS`更新和大型应用
 --------------------
 
-比起一年前，你的手机上的应用几乎全部换了。如果有[安卓系统更新](http://www.howtogeek.com/129273/why-your-android-phone-isnt-getting-operating-system-updates-and-what-you-can-do-about-it/)，要么更新可能并没有针对你的设备很好的优化，其结果就是你的设备变慢了；要么运营商或制造商在更新中[捆绑更多的软件](http://www.howtogeek.com/163558/how-carriers-and-manufacturers-make-your-android-phones-software-worse/)，这些软件在后台运行并拖慢了设备。
+与一年前相比，你的手机上的应用几乎全都更换了。要么[安卓系统更新](http://www.howtogeek.com/129273/why-your-android-phone-isnt-getting-operating-system-updates-and-what-you-can-do-about-it/)，但是并没有针对你的设备进行很好的优化，从而导致你的设备变慢；要么运营商或制造商在更新中[捆绑更多的软件](http://www.howtogeek.com/163558/how-carriers-and-manufacturers-make-your-android-phones-software-worse/)，这些软件在后台运行并拖慢了设备。
 
-即使你没有更新系统，比起一年前设备会安装更新的应用，无论新应用还是一个应用的新版本，应用几乎总是越来越重。因为应用开发者会接触到更快的智能机硬件，游戏和其它应用会针对这些更快设备来优化，结果在老设备上性能越来越差。这个现象在各个平台都一样。年复一年，网站变得更重，桌面应用要吃更多内存，游戏要更好的硬件来运行。
+即使你没有更新系统，比起一年前设备会安装更新的应用，无论新应用还是一个应用的新版本，应用几乎占用越来越多内存。应用开发者会接触到更快的智能机硬件，游戏和其它应用会针对这些更快设备来优化，结果导致其在老设备上性能越来越差。这个现象在各个平台都一样。年复一年，网站变得更重，桌面应用要吃更多内存，游戏要更好的硬件来运行。
 
-**解决方法：** 这个问题作为用户没有太多可以做的。如果系统变慢了，你可以装个[定制的`ROM`比如`CyanogenMod`](http://www.howtogeek.com/162516/how-to-flash-your-nexus-s-or-any-other-android-device-with-a-new-rom/)，定制`ROM`没有捆绑软件和制造商的皮肤（很多设备都有）。如果应用变慢了，可以去找找更轻的应用。
+**解决方法：** 这个问题作为用户基本无能为力。如果系统变慢了，你可以装个[定制的`ROM`比如`CyanogenMod`](http://www.howtogeek.com/162516/how-to-flash-your-nexus-s-or-any-other-android-device-with-a-new-rom/)，定制`ROM`没有捆绑软件和制造商的皮肤（很多设备都有）。如果应用变慢了，可以去找找更便捷轻快的应用。
 
 ![android-view-installed-apps-by-size](images/android-view-installed-apps-by-size.png)
 
@@ -72,4 +72,4 @@
 总结
 --------------------
 
-重置设备到出厂设置、只安装要用的应用，可以一票删除所有老应用和文件。重置到出厂设置虽然不能解决捆绑应用和在存储上运行`TRIM`，但有助如于解决越用越慢的问题，你懂得，就像[重装`Windows`](http://www.howtogeek.com/133254/beginner-geek-how-to-reinstall-windows-on-your-computer/)有助解决`PC`越用越慢。
+重置设备到出厂设置、只安装要用的应用，可以一并删除所有老应用和文件。重置到出厂设置虽然不能解决捆绑应用和在存储上运行`TRIM`，但有助如于解决越用越慢的问题，大家都心知肚明，就像[重装`Windows`](http://www.howtogeek.com/133254/beginner-geek-how-to-reinstall-windows-on-your-computer/)有助解决`PC`越用越慢。
